@@ -1,0 +1,47 @@
+
+
+
+{
+    "fg":[
+
+        { "bs" : "08:15", "vs":true, "pnsb":false },
+        { "bs" : "10:00", "vs":true, "pnsb":false },
+        { "bs" : "13:15", "vs":true, "pnsb":false },
+
+        { "bs" : "15:00", "vs":true, "pnsb":false },
+        { "bs" : "16:45", "vs":true, "pnsb":false },
+        { "bs" : "18:30", "vs":true, "pnsb":false },
+
+
+        { "bs" : "08:20", "vs":false, "pnsb":true },
+        { "bs" : "10:15", "vs":false, "pnsb":true },
+        { "bs" : "13:15", "vs":false, "pnsb":true },
+
+        { "bs" : "15:00", "vs":false, "pnsb":true },
+        { "bs" : "16:45", "vs":false, "pnsb":true },
+        { "bs" : "18:30", "vs":false, "pnsb":true }
+        
+    ],
+
+    "fa":[
+        
+        { "bs" : "09:00" , "vs":true, "pnsb":false },
+        { "bs" : "10:45" , "vs":true, "pnsb":false },
+        { "bs" : "14:00" , "vs":true, "pnsb":false },
+
+        { "bs" : "15:45" , "vs":true, "pnsb":false },
+        { "bs" : "17:30" , "vs":true, "pnsb":false },
+        { "bs" : "19:15" , "vs":true, "pnsb":false },
+
+
+        { "bs" : "09:05" , "vs":false, "pnsb":true },
+        { "bs" : "11:00" , "vs":false, "pnsb":true },
+        { "bs" : "14:00" , "vs":false, "pnsb":true },
+
+        { "bs" : "15:45" , "vs":false, "pnsb":true },
+        { "bs" : "17:30" , "vs":false, "pnsb":true },
+        { "bs" : "19:15" , "vs":false, "pnsb":true }
+
+    ]
+}
+ 
